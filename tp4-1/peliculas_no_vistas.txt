@@ -1,0 +1,29 @@
+Toy_Story
+Infantil
+10
+Josh_Cooley
+Woody Buzz_Lightyear Sid_Philips Tiranosaurio_Rex
+
+Forest_Gump
+Drama
+2
+Robert_Zemeckis
+Tom_Hanks Robin_Wright Gary_Sinese Sally_Field Michael_Conner
+
+Interstellar
+Ciencia_Ficcion
+7
+Chirstopher_Nolan
+Matthew_Mcconaughey
+
+Viernes_Trece
+Terror
+2
+Steven_Spielberg
+Aaron_Yoo Derek_Mears
+
+Tres_Metros_Sobre_El_Cielo
+Romantica
+6
+Fernando_Molina
+Mario_Casas Maria_Valverde Alvaro_Cervantes

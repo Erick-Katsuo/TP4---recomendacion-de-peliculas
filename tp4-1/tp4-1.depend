@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1558825870 source:e:\algoritmos y programacion ii\tp4-pelis\tp4-1\main.cpp
+	<iostream>
+	"Menu.h"
+	"Pelicula.h"
+	"Nodo.h"
+	"Lista.h"
+
+1558825614 e:\algoritmos y programacion ii\tp4-pelis\tp4-1\pelicula.h
+	"Lista.h"
+
+1558823707 e:\algoritmos y programacion ii\tp4-pelis\tp4-1\lista.h
+	"Nodo.h"
+
+1558660927 e:\algoritmos y programacion ii\tp4-pelis\tp4-1\nodo.h
+	<iostream>
+
+1558659949 source:e:\algoritmos y programacion ii\tp4-pelis\tp4-1\lista.cpp
+
+1558825624 source:e:\algoritmos y programacion ii\tp4-pelis\tp4-1\pelicula.cpp
+	"Pelicula.h"
+
+1558837330 source:e:\algoritmos y programacion ii\tp4-pelis\tp4-1\menu.cpp
+	"Menu.h"
+
+1558838270 e:\algoritmos y programacion ii\tp4-pelis\tp4-1\menu.h
+	<fstream>
+	"Pelicula.h"
+	"Lista.h"
+

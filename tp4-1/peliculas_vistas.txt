@@ -1,0 +1,29 @@
+El_Padrino
+Drama
+10
+Francis_Coppola
+Marlon_Brando Al_Pacino Robert_Duvall
+
+Harry_Potter
+Magia
+8
+Chris_Columbus
+Daniel_Radcliffe Emma_Watson Alan_Rickman Tom_Felton Tom_Hanks
+
+Que_paso_ayer
+Comedia
+9
+Todd_Phillips
+Bradley_Cooper Mike_Epps
+
+El_Exorcista
+Terror
+6
+William_Friedkin
+Linda_Blair
+
+Tiburon
+Terror
+3
+Steven_Spielberg
+Roy_Scheider Robert_Shaw Richard_Dreyfuss Lorraine_Gary
